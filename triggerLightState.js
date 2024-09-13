@@ -13,4 +13,4 @@ const NEW_STATE = {
 const WAIT_TIME_MS = 10000; // Time to wait (in milliseconds), e.g., 10000ms = 10 seconds
 
 // This will actually call the script whichs handles the timebased light state
-setLightStateForPeriod(LIGHT_ID, NEW_STATE, WAIT_TIME_MS);
+setLightStateForPeriod([12,14], NEW_STATE, WAIT_TIME_MS);

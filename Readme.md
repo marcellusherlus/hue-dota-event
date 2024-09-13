@@ -19,4 +19,3 @@ e.g. BRIDGE_IP=192.168.0.1
 2. node getLightIds.js
    1. You need to set the specific Bulb ID in the script triggerLightState
 3. node triggerLightState.js
-# hue-dota-event
